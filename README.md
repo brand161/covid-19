@@ -150,3 +150,8 @@ I'm not an expert. This is my interpretation of the data set currently available
 * https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003846
 * https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 * https://www.nejm.org/doi/full/10.1056/NEJMe2002387?query=RP
+
+## TODO
+
+* Add citations
+* Add examples for first paragraph
